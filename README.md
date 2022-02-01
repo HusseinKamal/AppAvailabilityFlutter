@@ -1,6 +1,6 @@
 # app_availability
 
-A new Flutter application.
+A new Flutter application that show availability of Facebook app in device.
 
 ## Getting Started
 
